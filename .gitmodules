@@ -1,3 +1,6 @@
 [submodule "EL_MASTER_LIBRARY"]
 	path = EL_MASTER_LIBRARY
 	url = https://github.com/shifthyperloop/EL_MASTER_LIBRARY.git
+[submodule "EL_Inverter_control"]
+	path = EL_Inverter_control
+	url = https://github.com/shifthyperloop/EL_Inverter_control.git
