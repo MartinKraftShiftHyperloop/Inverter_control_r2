@@ -1,0 +1,3 @@
+[submodule "EL_MASTER_LIBRARY"]
+	path = EL_MASTER_LIBRARY
+	url = https://github.com/shifthyperloop/EL_MASTER_LIBRARY.git
